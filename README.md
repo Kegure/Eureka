@@ -1,6 +1,3 @@
-O repositório "Eureka" no GitHub contém arquivos como FisicoBD1.sql, LógicoBD1.brM3, Perguntas-1.pdf, Perguntas.pdf e ProjetoBD1.2RL.brM3. Embora não haja uma descrição detalhada no repositório, os nomes dos arquivos sugerem que ele está relacionado a um projeto de banco de dados, possivelmente desenvolvido para uma disciplina acadêmica.
-
-Com base nessas informações, aqui está um exemplo de um arquivo README em português para o repositório:
 
 # Projeto Eureka
 
